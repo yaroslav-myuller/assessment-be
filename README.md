@@ -15,6 +15,6 @@ Service listens on http://localhost:8080
 
 ## Build JAR
 
-`./mvnc clean package`
+`./mvnw clean package`
 
 Resulting JAR package can be found in `./target`.
