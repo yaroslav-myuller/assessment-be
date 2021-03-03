@@ -1,5 +1,7 @@
 # Ista Todo List Assessment Backend
 
+REST Controller with H2 Database and simple validation for description in TodoEntity 
+
 Minimal Spring Boot application with Spring Starter Web and Spring Start Test enabled. This is ment to be a skeleton application for the Ista coding assessment.
 
 ## Requirements
